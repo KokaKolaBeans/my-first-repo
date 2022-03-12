@@ -1,13 +1,11 @@
-### Animals
+#Code
 
-I love Zebras
+```
+chickens are cute too
+```
 
-### Chickens
+## Chickens the movie
 
-I love chickens
+`The commands git add -A then git commit -m "comments" should fix the issue.`
 
-###
 
-fuck my shit
-
-The commands `git add -A' then 'git commit "m comments"` should fix the issue.
