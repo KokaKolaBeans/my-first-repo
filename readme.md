@@ -11,3 +11,8 @@ in portions of the book with the narrator's rage. Orwell's crystalline prose, de
 accoutrement allows the reader to experience Orwell's world as if through his own eyes, creating his own images and drawing his
 own judgements quite independent of the narrator himself. The tone, however, becomes more despeerate -- sadd and darker -- in the book's final chapters
 
+I remember eading an interview with Yann Martel years ago wherein he described the experienc eof writing a book and then, later, realizing it just wasn't working. All the obvious bit of goo writing seemd present, but there was some fundamental underlying *living* quality missing from the work.
+
+Orwell is the first writer I read that seemed, in the simplicity of his prose, to lay bare the inner mechanics of beautiful prose. So too have poets, like.... The poetry of, say.., feels to me less like a liviing, breathing artificat than simply a succession of useful interesting images,
+
+As someone who, at the end of the day, knows very little about writing, I am fascinated by the ethereal elements that transogrify beautiful language into a living, breathing world.
