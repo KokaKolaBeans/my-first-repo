@@ -16,3 +16,13 @@ I remember eading an interview with Yann Martel years ago wherein he described t
 Orwell is the first writer I read that seemed, in the simplicity of his prose, to lay bare the inner mechanics of beautiful prose. So too have poets, like.... The poetry of, say.., feels to me less like a liviing, breathing artificat than simply a succession of useful interesting images,
 
 As someone who, at the end of the day, knows very little about writing, I am fascinated by the ethereal elements that transogrify beautiful language into a living, breathing world.
+
+
+Orwell's prose is plain
+Work in the hotel taught me the true value of sleep, just as being hungry had taught me the true value of food. Sleep had ceased to be a mere physical necessity; it was something voluptuous, a debauch more than a releif. I had no more trouble with the bugs. Mario had told me of a sure remedy for them, namely pepper, strewed thick over the bedclothes. 
+It made me sneeze, but the bugs all emigrated to other rooms (pg 329)
+
+Up here, in the hills round Zaragoza, it was simply the mingled boredom and discomfort of a stationary warfare. A life as uneventful as a city clerk's, and almost as regular. Sentry-go, patrols, digging; digging, patrols, sentry-go. On every hill-top, Fascist or loyalist, knot of ragged, dirty men shivering round their flag and trying to keep warm. 
+And all day and night the meaninglfess bullets wandering across the empty valleys and only by some rare improbable chance getting home on a human body. (pg 27)
+
+The hills opposite us were grey and wrinkled like the skins of elephants (pg 28)
